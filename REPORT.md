@@ -24,6 +24,7 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 | WEIGHT_DECAY_CRITIC | 1e-7 |
 | NOISE_START | 1.0 |
 | NOISE_END | 0.13 |
+| NUM_LEARN_STEPS_PER_ENV_STEP | 5 |
 | NOISE_REDUCTION | 0.999 |
 | HIDDEN_LAYERS | [256, 128] |
 | DEVICE | GPU |
