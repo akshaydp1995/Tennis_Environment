@@ -22,8 +22,8 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 | LR_CRITIC | 9e-3 |
 | WEIGHT_DECAY_ACTOR | 1e-7 |
 | WEIGHT_DECAY_CRITIC | 1e-7 |
-| NOISE_START | 0.8 |
-| NOISE_END | 0.15 |
+| NOISE_START | 1.0 |
+| NOISE_END | 0.13 |
 | NOISE_REDUCTION | 0.999 |
 | HIDDEN_LAYERS | [256, 128] |
 | DEVICE | GPU |
