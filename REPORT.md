@@ -15,11 +15,11 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 | Hyperparameter | Value |
 | -------------- | ------ |
 | GAMMA | 0.99 |
-| BUFFER_SIZE | 1e6 |
+| BUFFER_SIZE | 5e5 |
 | BATCH_SIZE | 512 |
-| TAU | 1e-3 |
-| LR_ACTOR | 9e-3 |
-| LR_CRITIC | 9e-3 |
+| TAU | 2e-3 |
+| LR_ACTOR | 1e-4 |
+| LR_CRITIC | 1e-4 |
 | WEIGHT_DECAY_ACTOR | 1e-7 |
 | WEIGHT_DECAY_CRITIC | 1e-7 |
 | NOISE_START | 1.0 |
