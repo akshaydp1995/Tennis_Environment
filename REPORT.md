@@ -33,6 +33,6 @@ Follow the instructions in `Tennis.ipynb` to get started with training your own 
 
 Rewards obtained by agent plotted as function of episodes of training is shown below :
 
-![rewards_plot](https://raw.githubusercontent.com/akshaydp1995/Reacher_Environment/master/rewards.png)
+![rewards_plot](https://raw.githubusercontent.com/akshaydp1995/Tennis_Environment/master/rewards.png)
 
 Orange line represents a rolling mean of rewards for latest 100 episodes.
