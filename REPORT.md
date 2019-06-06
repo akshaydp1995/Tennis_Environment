@@ -35,4 +35,6 @@ Rewards obtained by agent plotted as function of episodes of training is shown b
 
 ![rewards_plot](https://raw.githubusercontent.com/akshaydp1995/Tennis_Environment/master/rewards.png)
 
+The environment has been solved in 1556 episodes for an average score of +0.5
+
 Orange line represents a rolling mean of rewards for latest 100 episodes.
